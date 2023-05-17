@@ -1,9 +1,9 @@
 <h2>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-  Hi, ich bin Görkem Ballmüller! Softwarearchitekt, Experte für Microsoft Technologien und Gründer von ballmüller solutions.
+  Hi, ich bin Görkem Ballmüller!
 </h2>
 <p>
-  <em>Software Architekt bei <a href="http://xn--ballmllersolutions-q6b.de/">ballmüller solutions</a>
+  <em>Software Architekt, Experte für Microsoft Technologien und Gründer von <a href="http://xn--ballmllersolutions-q6b.de/">ballmüller solutions</a>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em>
 </p>
 
